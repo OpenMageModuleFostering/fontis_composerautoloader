@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Easily add the Composer autoloader to Magento.
